@@ -2,7 +2,7 @@ Arguments:
   /home/pc/.nvm/versions/node/v10.16.0/bin/node /home/pc/.yarn/bin/yarn.js add styles.css
 
 PATH: 
-  /tmp/yarn--1583195708250-0.8128588260993173:/home/pc/Desktop/decode-tx/node_modules/.bin:/home/pc/.config/yarn/link/node_modules/.bin:/home/pc/.nvm/versions/node/v10.16.0/libexec/lib/node_modules/npm/bin/node-gyp-bin:/home/pc/.nvm/versions/node/v10.16.0/lib/node_modules/npm/bin/node-gyp-bin:/home/pc/.nvm/versions/node/v10.16.0/bin/node_modules/npm/bin/node-gyp-bin:/home/pc/.yarn/bin:/home/pc/.config/yarn/global/node_modules/.bin:/home/pc/.nvm/versions/node/v10.16.0/bin:/home/pc/.local/share/umake/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  /tmp/yarn--1583195954553-0.15523930884328596:/home/pc/Desktop/decode-tx/node_modules/.bin:/home/pc/.config/yarn/link/node_modules/.bin:/home/pc/.nvm/versions/node/v10.16.0/libexec/lib/node_modules/npm/bin/node-gyp-bin:/home/pc/.nvm/versions/node/v10.16.0/lib/node_modules/npm/bin/node-gyp-bin:/home/pc/.nvm/versions/node/v10.16.0/bin/node_modules/npm/bin/node-gyp-bin:/home/pc/.yarn/bin:/home/pc/.config/yarn/global/node_modules/.bin:/home/pc/.nvm/versions/node/v10.16.0/bin:/home/pc/.local/share/umake/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 Yarn version: 
   1.22.0

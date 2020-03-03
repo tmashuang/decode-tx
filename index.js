@@ -1,4 +1,3 @@
-import "./styles.css";
 import { ethers } from "ethers";
 
 document.getElementById("app").innerHTML = `
